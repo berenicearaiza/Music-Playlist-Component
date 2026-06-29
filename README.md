@@ -135,3 +135,4 @@ Make sure the OSU components library is on your classpath before compiling.
 ## Author
 
 **Berenice Araiza Sierra** — OSU Portfolio Project
+**Jeremy Grifski** - Template Author
